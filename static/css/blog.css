@@ -1,6 +1,6 @@
 html,body {
     font-family: 'Open Sans', sans-serif;
-    background: #f37e11;
+    background: #fd6a02;
     }
 .hero-body {
     background-position: center;
@@ -8,4 +8,64 @@ html,body {
     background-repeat: no-repeat;
     }
 .mysocial { color: hsl(0, 0%, 100%);}
-.mysocial:hover { color: hsl(0, 0%, 71%) }
+.mysocial:hover { color: #1da1f2 }
+.tile {
+    box-shadow: black 3px 3px 3px;
+}
+.card {
+    border-radius: 6px;
+    box-shadow: black 3px 3px 3px;
+}
+.pagination-link{
+    border-color: black;
+    border-width: 2px;
+    color: black;
+    min-width: 2.25em;
+}
+.pagination-next{
+    border-color: black;
+    border-width: 2px;
+    color: black;
+    min-width: 2.25em;
+}
+.pagination-previous{
+    border-color: black;
+    border-width: 2px;
+    color: black;
+    min-width: 2.25em;
+}
+.navbar-brand{
+    background: #fd6a02;
+    align-items: stretch;
+    display: flex;
+    flex-shrink: 0;
+    min-height: 3.25rem;
+}
+.navbar {
+    background: #fd6a02;
+}
+.navbar-item{
+    color: black;
+}
+.hero{
+    filter: grayscale(1);
+    transition: filter 1s linear;
+}
+.tag:not(body){
+    background-color: #fd6a02;
+    box-shadow: 1px 1px 1px black;
+}
+a {
+    color: black;
+}
+a:hover {
+    color: purple;
+  }
+  a.navbar-item:hover{
+      color: purple;
+  }
+  .pagination-link.is-current{
+      background-color: lightgray;
+      border-color: black;
+      color: black;
+  }
