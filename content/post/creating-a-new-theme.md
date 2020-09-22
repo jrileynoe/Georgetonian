@@ -10,7 +10,8 @@ next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Creating a New Theme
 weight: 10
-issues: "1"
+issues:
+categories: "sports"
 ---
 
 

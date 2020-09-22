@@ -1,0 +1,8 @@
+<div class="card">
+    <div class="card-content">
+        <h1 class="title is-5">Issues</h1>
+        {{ range $name, $taxonomy := .Site.Taxonomies.issues }}
+            <span class="tag"><a href="{{ "issues" | absURL }}/{{ $name | urlize }}">Issue {{ $name }}</a></span>
+        {{ end }}
+    </div>
+</div>

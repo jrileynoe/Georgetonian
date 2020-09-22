@@ -10,10 +10,7 @@ tags = [
 ]
 date = "2014-04-02"
 archives = "2014"
-categories = [
-    "Development",
-    "golang",
-]
+categories = "features"
 menu = "main"
 +++
 
