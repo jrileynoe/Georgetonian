@@ -12,6 +12,7 @@ title: Creating a New Theme
 weight: 10
 issues:
 categories: "sports"
+banner: "/post/g.jpg"
 ---
 
 
