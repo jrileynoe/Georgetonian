@@ -8,6 +8,10 @@ The Georgetonian Newspaper was established on Georgetown College’s campus in 1
 
 Today, it is a free weekly newspaper published most Fridays during the academic calendar by Georgetown College in Georgetown, KY. Its contents are written and edited by current student of Georgetown College.
 
+
+![image](/content/g.jpg)
+
+
 ## Georgetonian Staff 2020
 * Editor-in-Chief: Riley Noe 
 * Technical Engineer: Hunter Nosek
