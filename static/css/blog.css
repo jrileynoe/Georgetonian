@@ -61,11 +61,20 @@ a {
 a:hover {
     color: purple;
   }
-  a.navbar-item:hover{
+a.navbar-item:hover{
       color: purple;
   }
-  .pagination-link.is-current{
+.pagination-link.is-current{
       background-color: lightgray;
       border-color: black;
       color: black;
   }
+.hero.is-info.is-medium{
+    blur(0);
+    transition: filter 1s ease;
+}
+img {
+    float: right;
+    margin: 0 auto;
+    height: 165px;
+}
