@@ -50,9 +50,20 @@ The main things that we wanted to do in our time working on this:
 
 We named the file `blog.css` and placed it in my `static/css`directory in the root of our project so it overwrites the css in the theme.
 
-Here's a look at all of the major changes we made: 
+Here's a look at all of the changes we made: 
 
 ```css
+html,body {
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(to right, #ec9f05, #ff4e00);
+    }
+.hero-body {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+.mysocial { color: hsl(0, 0%, 100%);}
+.mysocial:hover { color: #1da1f2 }
 .tile {
     box-shadow: black 3px 3px 3px;
 }
@@ -79,21 +90,17 @@ Here's a look at all of the major changes we made:
     min-width: 2.25em;
 }
 .navbar-brand{
-    background: #fd6a02;
+    background: #f17836 ;
     align-items: stretch;
     display: flex;
     flex-shrink: 0;
     min-height: 3.25rem;
 }
 .navbar {
-    background: #fd6a02;
+    background: #f17836 ;
 }
 .navbar-item{
     color: black;
-}
-.hero{
-    filter: grayscale(1);
-    transition: filter 1s linear;
 }
 .tag:not(body){
     background-color: #fd6a02;
@@ -113,10 +120,6 @@ a.navbar-item:hover{
       border-color: black;
       color: black;
   }
-.hero.is-info.is-medium{
-    blur(0);
-    transition: filter 1s ease;
-}
 img {
     float: right;
     margin: 0 auto;

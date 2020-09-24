@@ -1,6 +1,6 @@
 html,body {
     font-family: 'Open Sans', sans-serif;
-    background: #fd6a02;
+    background: linear-gradient(to right, #ec9f05, #ff4e00);
     }
 .hero-body {
     background-position: center;
@@ -35,21 +35,17 @@ html,body {
     min-width: 2.25em;
 }
 .navbar-brand{
-    background: #fd6a02;
+    background: #f17836 ;
     align-items: stretch;
     display: flex;
     flex-shrink: 0;
     min-height: 3.25rem;
 }
 .navbar {
-    background: #fd6a02;
+    background: #f17836 ;
 }
 .navbar-item{
     color: black;
-}
-.hero{
-    filter: grayscale(1);
-    transition: filter 1s linear;
 }
 .tag:not(body){
     background-color: #fd6a02;
@@ -69,10 +65,6 @@ a.navbar-item:hover{
       border-color: black;
       color: black;
   }
-.hero.is-info.is-medium{
-    blur(0);
-    transition: filter 1s ease;
-}
 img {
     float: right;
     margin: 0 auto;
