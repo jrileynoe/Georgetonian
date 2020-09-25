@@ -1,10 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-month: {{ .Month }}
 archives: "{{ dateFormat "2006" now }}"
-issues: "{{ dateFormat "2006" now }}-{{ dateFormat "January" now }}"
+issues: {{ dateFormat "January 2006" now }}
 tags: []
 author: John SMITH
-banner: ""
+position: Staff Writer
+categories: Sports
 ---

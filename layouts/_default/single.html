@@ -3,6 +3,15 @@
 <div class="columns">
     <div class="column is-9">
         <div class="tile is-child box">
+            <div class="title">
+                {{ .Title }}
+            </div>
+            <div>
+                {{ if .Params.Author }}
+                By {{ .Params.Author }}{{if .Params.Position }}, <i>{{ .Params.Position }}</i>
+                {{end}}
+                {{end}}
+            </div>
             <div class="content">
                 {{ .Content }}
             </div>
