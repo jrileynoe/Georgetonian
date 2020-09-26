@@ -3,7 +3,7 @@ author: [
     "Riley Noe",
     "Hunter Nosek"
 ]
-date: 2020-09-19
+date: 2020-09-26
 archives: "2020"
 linktitle: Project Article
 menu:
@@ -237,3 +237,9 @@ img {
     height: 165px;
 }
 ```
+
+## To do List
+
+There are a few things that we would like to further explore:
+
+* 
