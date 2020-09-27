@@ -11,14 +11,11 @@ menu:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: Project Article
+title: "Project Article: Building the Georgetonian"
 weight: 10
 issues: September 2020
 categories: CSC 324
 ---
-
-
-# Building the Georgetonian
 
 ![image](/post/g.jpg)
 
@@ -248,4 +245,8 @@ There are a few things that we would like to further explore:
 
 * On pages that show a list of articles, i.e. the home page, category pages, etc., I would like to show a Thumbnail of the article's picture if there is one. 
 
-* Email subscription 
+* I would like to give our followers the opportunity to subscribe to a weekly email.
+
+* We need to add the ability to sort articles by author. This would allow people to read all of the articles written by a specific author. 
+
+
