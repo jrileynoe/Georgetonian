@@ -3,7 +3,7 @@ author: [
     "Riley Noe",
     "Hunter Nosek"
 ]
-date: 2020-09-26
+date: 2020-09-27
 archives: "2020"
 linktitle: Project Article
 menu:

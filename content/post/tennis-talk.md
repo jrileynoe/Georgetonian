@@ -1,6 +1,6 @@
 ---
 title: "Tennis Talk: US Open Singles Finals"
-date: 2020-09-27T12:39:51-04:00
+date: 2020-09-26T12:39:51-04:00
 archives: "2020"
 issues: September 2020
 tags: []

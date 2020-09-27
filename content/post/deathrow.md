@@ -1,6 +1,6 @@
 ---
 title: "Inmate on Death Row for Drug Trafficking Digs Out of Indonesian Prison"
-date: 2020-09-27T12:33:58-04:00
+date: 2020-09-26T12:33:58-04:00
 archives: "2020"
 issues: September 2020
 tags: []
