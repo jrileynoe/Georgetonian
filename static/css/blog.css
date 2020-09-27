@@ -1,6 +1,6 @@
 html,body {
     font-family: 'Open Sans', sans-serif;
-    background: linear-gradient(to right, #ec9f05, #ff4e00);
+    background: linear-gradient(to right, #cc7000, #ff4e00);
     }
 .hero-body {
     background-position: center;
@@ -69,4 +69,22 @@ img {
     float: right;
     margin: 0 auto;
     height: 165px;
+}
+.fixed {
+    display: block;
+    min-height: -webkit-min-content;
+    min-height: -moz-min-content;
+    min-height: min-content;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);
+    display: block;
+    padding: 1.25em;
+    box-shadow: black 3px 3px 3px;
+    margin-bottom: 25px;
+}
+
+h1 {
+    font-size: larger;
+    font-weight: bolder;
 }
