@@ -9,7 +9,7 @@ tags: [
 ]
 author: Charity Stolz
 position: Staff Writer
-categories: Features
+categories: "opinion"
 ---
 
 ![img](/post/bench.jpg)

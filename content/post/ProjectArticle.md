@@ -14,7 +14,7 @@ prev: /tutorials/automated-deployments
 title: "Project Article: Building the Georgetonian"
 weight: 10
 issues: September 2020
-categories: CSC 324
+categories: "ae"
 ---
 
 ![image](/post/g.jpg)
