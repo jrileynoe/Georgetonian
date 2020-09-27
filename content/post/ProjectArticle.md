@@ -23,7 +23,7 @@ categories: "ae"
 
 This article will describe Georgetonian, a website created by Riley Noe and Hunter Nosek. Sadly, this is just a personal website created in about a weeks time. It is constructed using the Hugo static-site generator.
 
-The repository is on Github (CONNECT LINK).
+The repository is on [Github](https://github.com/jrileynoe/Georgetonian).
 
 [Go to the Support Web Site](www.youtube.com/i-love-hunter-nosek/)
 
@@ -35,7 +35,9 @@ Going into this project, we had a decent idea of how our site needed to look. Sp
 * **Flexible**: Allowing us to easily alter the theme taxonomy allows us to scale our unique archive system using issues and categories
 * **User-friendly**: In depth CSS style guides will lead to a site that anyone can quickly and easily manuever
 
-We have found all three criteria in JeffProd. 
+We have found all three criteria in JeffProd.
+
+Check out JeffProd's repository [Here!](https://github.com/Tazeg/hugo-blog-jeffprod/tree/bbe726e57038b97df811731330fe2c35f5043964)
 
 ## Modifications to the Theme
 
@@ -247,6 +249,8 @@ There are a few things that we would like to further explore:
 
 * I would like to give our followers the opportunity to subscribe to a weekly email.
 
-* We need to add the ability to sort articles by author. This would allow people to read all of the articles written by a specific author. 
+* We need to add the ability to sort articles by author. This would allow people to read all of the articles written by a specific author.
+
+* The taxonomy issues won't open a page. We haven't had enough time to fix this, so we would definitely get that sorted out.
 
 
