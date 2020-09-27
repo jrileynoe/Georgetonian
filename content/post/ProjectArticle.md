@@ -13,8 +13,8 @@ next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Project Article
 weight: 10
-issues:
-categories: 
+issues: September 2020
+categories: CSC 324
 ---
 
 
@@ -242,4 +242,10 @@ img {
 
 There are a few things that we would like to further explore:
 
-* 
+* I would like to create an admin dashboard using Forestry.io. This would allow Page Editors to upload articles for each Copy Editor to edit and save inside the website. Once all edits have been made, they can submit them for approval.
+
+* A Search Bar would be great, because then users could search for a specific article, author, tag, category, issue etc. It would greatly increase our userfriendly-ness.
+
+* On pages that show a list of articles, i.e. the home page, category pages, etc., I would like to show a Thumbnail of the article's picture if there is one. 
+
+* Email subscription 
