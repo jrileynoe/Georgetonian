@@ -21,11 +21,11 @@ categories: "ae"
 
 ## Introduction
 
-This article will describe Georgetonian, a website created by Riley Noe and Hunter Nosek. Sadly, this is just a personal website created in about a weeks time, not the official Georgetonian website. It is constructed using the Hugo static-site generator.
+This article will describe Georgetonian, a website created by Riley Noe and Hunter Nosek. This website is designed for Georgetown students interested in reading about a wide variety of articles, from events around campus to important events around the world. Sadly, this is just a personal website created in about a weeks time, not the official Georgetonian website. It is constructed using the Hugo static-site generator.
 
 The repository for our website is on [Github](https://github.com/jrileynoe/Georgetonian).
 
-[Go to the Support Web Site](www.youtube.com/i-love-hunter-nosek/)
+The site is deployed at [https://the-georgetonian.netlify.app/post/projectarticle/](https://the-georgetonian.netlify.app/post/projectarticle/)
 
 ## Choice of Theme
 
