@@ -241,16 +241,18 @@ img {
 
 There are a few things that we would like to further explore:
 
-* I would like to create an admin dashboard using Forestry.io. This would allow Page Editors to upload articles for each Copy Editor to edit and save inside the website. Once all edits have been made, they can submit them for approval.
+* We would like to create an admin dashboard using Forestry.io. This would allow Page Editors to upload articles for each Copy Editor to edit and save inside the website. Once all edits have been made, they can submit them for approval.
 
 * A Search Bar would be great, because then users could search for a specific article, author, tag, category, issue etc. It would greatly increase our userfriendly-ness.
 
 * On pages that show a list of articles, i.e. the home page, category pages, etc., I would like to show a Thumbnail of the article's picture if there is one. 
 
-* I would like to give our followers the opportunity to subscribe to a weekly email.
+* We would like to give our followers the opportunity to subscribe to a weekly email.
 
 * We need to add the ability to sort articles by author. This would allow people to read all of the articles written by a specific author.
 
 * The taxonomy issues won't open a page. We haven't had enough time to fix this, so we would definitely get that sorted out.
+
+* Inside the articles, you can sometimes see the title of it in the background picture at the top. We didn't have time to figure out how to get rid of it, but this would certainly get sorted out.
 
 
